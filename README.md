@@ -1,1 +1,1 @@
-# mlb-head
+# golden-picks
